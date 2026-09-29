@@ -1,14 +1,7 @@
 # 📊 Sales Dashboard
 
 This repository contains datasets, reports, and visualizations for analyzing sales performance.  
-The dashboard provides insights into **Quantity, Profit, and Amount** across categories, sub‑categories, customers, and payment modes.
-
----
-
-## 🚀 Key Highlights
-- **2008** → Total Quantity  
-- **26K** → Total Profit  
-- **161K** → Total Amount  
+The dashboard provides insights into **Quantity, Profit, and Amount** across categories, sub‑categories, customers, and payment modes. 
 
 ---
 
